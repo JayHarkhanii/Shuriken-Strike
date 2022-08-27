@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Powerup
+  - Easy_Enemy
+  - Block
+  - Enemy
+  - Wall
+  - Teleporter
+  - obstacle
+  - bullet
+  - bg
+  - shieldDestroy
+  - shield
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - BlockLayer
+  - Water
+  - UI
+  - PostProcessing
+  - WallLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: bg
+    uniqueID: 441095325
+    locked: 0
+  - name: UI
+    uniqueID: 3443587407
+    locked: 0
+  - name: GameElements
+    uniqueID: 3964199599
+    locked: 0
+  - name: tut
+    uniqueID: 4260488033
+    locked: 0
+  - name: fade-out
+    uniqueID: 255338861
+    locked: 0
